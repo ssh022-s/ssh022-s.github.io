@@ -1,11 +1,8 @@
 ---
-layout: cv
+title: "CV"
+layout: default
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: Shuai_Liu_CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<h1>Curriculum Vitae</h1>
+<iframe src="https://liushuai26.github.io/assets/pdf/Shuai_Liu_CV.pdf" width="100%" height="800px" style="border:none;"></iframe>
