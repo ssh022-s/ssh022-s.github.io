@@ -2,12 +2,28 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+
+
+<div class="row mt-3 align-items-center">
+    <!-- Video Section -->
+    <div class="col-md-6">
+        {% include video.liquid path="assets/video/AICat.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <!-- Caption Section -->
+    <div class="col-md-6">
+        <div class="caption">
+            <p>An AI agent manipulates a cat's limbs to accomplish various tasks.</p>
+        </div>
+    </div>
+</div>
+
 
 <!-- pages/projects.md -->
 <div class="projects">
