@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description:
 nav: true
@@ -8,6 +8,20 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+
+<div class="row mt-3 align-items-center">
+    <!-- Video Section -->
+    <div class="col-md-6">
+        {% include video.liquid path="assets/video/superheavylanding.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <!-- Caption Section -->
+    <div class="col-md-6">
+        <div class="caption" style="text-align: left;">
+            <p>AI Controls Super Heavy Booster Landing</p>
+        </div>
+    </div>
+</div>
 
 
 
@@ -18,7 +32,7 @@ horizontal: false
     </div>
     <!-- Caption Section -->
     <div class="col-md-6">
-        <div class="caption">
+        <div class="caption" style="text-align: left;">
             <p>An AI agent manipulates a cat's limbs to accomplish various tasks.</p>
         </div>
     </div>
