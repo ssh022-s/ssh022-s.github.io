@@ -25,14 +25,3 @@ Machine Learning Engineer
 * Reinforcement Learning
 * Machine Learning
 * Robotics
-
-## Projects {#projects}
-<div class="projects">
-  <!-- You can manually list or summarize your projects here -->
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-</div>
