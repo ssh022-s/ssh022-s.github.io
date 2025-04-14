@@ -16,12 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Machine Learning Engineer
+Software Engineer
 
 ## Interests
 * Software Development
-* Game Development
-* Game AI
-* Reinforcement Learning
+* Embedded Development
+* Automation
+* Switch SDK Development
 * Machine Learning
-* Robotics
