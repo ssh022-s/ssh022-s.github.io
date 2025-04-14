@@ -11,4 +11,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 ---
 
 
-<iframe src="https://liushuai26.github.io/assets/pdf/Shuai_Liu_CV.pdf" width="100%" height="1200px" style="border:none;"></iframe>
+<iframe src="https://liushuai26.github.io/assets/pdf/ShihaoSun_CV.pdf" width="100%" height="1200px" style="border:none;"></iframe>
